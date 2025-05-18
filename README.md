@@ -1,6 +1,6 @@
 # Overview
 
-Over the past three or so year I have slowly built up this homelab setup from mostly free hardware I have acquired from friends. This is the most recent rendition after I purchased two new switches I installed yesterday (May 18th). As is the norm with a homelab setup this is always changing and I have big plans for when my friend decommissions 8 or so of his other servers and gifts them to me.
+Over the past three or so year I have slowly built up this homelab setup from mostly free hardware I have acquired from friends. This is the most recent rendition after I purchased two new switches I installed yesterday (May 18th 2025). As is the norm with a homelab setup this is always changing and I have big plans for when my friend decommissions 8 or so of his other servers and gifts them to me.
 
 # Hardware 
 ## Switches
